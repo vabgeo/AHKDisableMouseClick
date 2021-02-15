@@ -12,6 +12,7 @@ A. Using the tool
 1. Installation
 
 1.a From AHK file
+
   Download latest version of AutoHotKey https://www.autohotkey.com/
   
   Download the .ahk file
@@ -19,6 +20,7 @@ A. Using the tool
   Double click on the AHK file and 
   
 1.b Compile
+
   If Auto Hot Key is installed, you can right click and compile the .ahk file to create an exe
   
   Double click to run the exe
