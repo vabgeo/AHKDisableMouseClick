@@ -9,5 +9,6 @@ Press Ctrl+ESC key together to exit from the application
   Download latest version of AutoHotKey https://www.autohotkey.com/
   Download the .ahk file
   Double click
+  
 1.b Compile
   If Auto Hot Key is installed, you can right click and compile the .ahk file to create an exe
