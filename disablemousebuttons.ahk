@@ -16,9 +16,9 @@ Gui, Add, CheckBox, vMBtnCheck, Tick Yes to disable Middle Click
 Gui, Add, CheckBox, vWBtnCheck, Tick Yes to disable Scrolling Wheel
 
 Gui, Add, Button, Default w80 gBtnExt, Stop and Exit
-Gui, Add, Text,,"Press Ctrl+Escape key together to exit the application"
-Gui, Add, Text,,"v0.1 Build 16022021"
-Gui, Add, Text,,"(c) Va.B.Geo https://github.com/vabgeo/AHKDisableMouseClick"
+Gui, Add, Text,,Press Ctrl+Escape key together to exit the application
+Gui, Add, Text,,v0.1 Build 16022021
+Gui, Add, Text,,(c) Va.B.Geo https://github.com/vabgeo/AHKDisableMouseClick
 
 ;#Show the GUI here
 Gui, Show, , Mouse Enable/Disable
