@@ -41,7 +41,7 @@ UninstPage instfiles
 ;--------------------------------
 
 ; The stuff to install
-Section "Win Mouse KB Config (required)"
+Section "Windows Disable Mouse Buttons (required)"
 
   SectionIn RO
   
@@ -68,7 +68,7 @@ Section "Start Menu Shortcuts"
 
   CreateDirectory "$SMPROGRAMS\WinMouseKBConfig"
   CreateShortcut "$SMPROGRAMS\WinMouseKBConfig\Uninstall.lnk" "$INSTDIR\uninstall.exe"
-  CreateShortcut "$SMPROGRAMS\WinMouseKBConfig\WinMouseKBConfig.lnk" "$INSTDIR\disablemousebuttons.exe"
+  CreateShortcut "$SMPROGRAMS\WinMouseKBConfig\Disable Mouse Buttons.lnk" "$INSTDIR\disablemousebuttons.exe"
 
 SectionEnd
 
